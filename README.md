@@ -1,1 +1,1 @@
-# ML_miniprojects
+# Sizeable Machine Learning Projects for Biology
